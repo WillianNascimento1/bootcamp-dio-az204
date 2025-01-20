@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "httpValidaCpf_will": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7130",
+      "launchBrowser": false
+    }
+  }
+}
