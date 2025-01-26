@@ -1,0 +1,3 @@
+F:\bootcamp-dio-az204-visualStudio\APITempoDIO\APITempoDIO\obj\Debug\netcoreapp2.1\APITempoDIO.csproj.CoreCompileInputs.cache
+F:\bootcamp-dio-az204-visualStudio\APITempoDIO\APITempoDIO\obj\Debug\netcoreapp2.1\APITempoDIO.AssemblyInfoInputs.cache
+F:\bootcamp-dio-az204-visualStudio\APITempoDIO\APITempoDIO\obj\Debug\netcoreapp2.1\APITempoDIO.AssemblyInfo.cs
